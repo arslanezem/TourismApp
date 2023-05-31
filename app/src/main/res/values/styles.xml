@@ -1,0 +1,16 @@
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Couleur du texte -->
+        <item name="android:textColor">@android:color/black</item>
+        <!-- Couleur du texte lorsqu'il est en surbrillance -->
+        <item name="android:textColorHighlight">@color/black</item>
+        <!-- Couleur du texte de l'invite -->
+        <item name="android:textColorHint">@color/black</item>
+        <!-- Couleur du fond de la zone de recherche -->
+        <item name="android:queryBackground">@color/black</item>
+        <!-- Couleur du fond du bouton de soumission -->
+        <item name="android:submitBackground">@color/purple_200</item>
+        <!-- Couleur de l'icône de recherche -->
+        <item name="android:searchIcon">@drawable/search_icon</item>
+    </style>
+</resources>

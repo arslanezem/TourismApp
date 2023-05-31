@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259499995723",
+    "project_id": "tourismapp-d06e2",
+    "storage_bucket": "tourismapp-d06e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259499995723:android:e615aeedc3b22891d613ce",
+        "android_client_info": {
+          "package_name": "fr.ensim.android.tourismapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259499995723-isa2um9eo6us5rfqrg65rkfktmlu7fv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwabZQoOHfAH_qRY6rhq19BSd2j0Q3Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259499995723-isa2um9eo6us5rfqrg65rkfktmlu7fv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
